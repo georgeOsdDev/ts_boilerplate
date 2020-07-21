@@ -29,7 +29,7 @@
     "@babel/plugin-transform-runtime": "7.10.5",
     "@babel/preset-env": "7.10.4",
     "@babel/preset-typescript": "7.10.4",
-    "@types/jest": "26.0.4",
+    "@types/jest": "26.0.5",
     "fetch-mock": "9.10.3",
     "husky": "4.2.5",
     "jest": "26.1.0",
