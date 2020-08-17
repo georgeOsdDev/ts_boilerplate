@@ -30,7 +30,7 @@
     "@babel/preset-env": "7.11.0",
     "@babel/preset-typescript": "7.10.4",
     "@types/jest": "26.0.9",
-    "fetch-mock": "9.10.6",
+    "fetch-mock": "9.10.7",
     "husky": "4.2.5",
     "jest": "26.3.0",
     "jest-junit": "11.1.0",
