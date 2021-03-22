@@ -41,7 +41,7 @@
     "rimraf": "3.0.2",
     "terser-webpack-plugin": "5.1.1",
     "ts-loader": "8.0.18",
-    "typedoc": "0.20.32",
+    "typedoc": "0.20.33",
     "typescript": "4.2.3",
     "webpack": "5.27.1",
     "webpack-bundle-analyzer": "4.4.0",
